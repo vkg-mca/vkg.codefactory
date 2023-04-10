@@ -1,0 +1,9 @@
+{
+  "configProperties": {
+    "System.GC.Concurrent": true,
+    "System.GC.Server": true,
+    "System.GC.CpuGroup": true,
+    "System.GC.HeapAffinitizeRanges": "0:1-3"
+    //"System.GC.HeapAffinitizeMask": 15.0
+  }
+}
